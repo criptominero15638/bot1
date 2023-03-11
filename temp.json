@@ -1,0 +1,72 @@
+[
+    {
+        "accountAlias": "oCfWFzXqAumYAu",
+        "asset": "DOT",
+        "balance": "0.00000000",
+        "withdrawAvailable": "0.00000000",
+        "updateTime": 0
+    },
+    {
+        "accountAlias": "oCfWFzXqAumYAu",
+        "asset": "BTC",
+        "balance": "0.00000000",
+        "withdrawAvailable": "0.00000000",
+        "updateTime": 0
+    },
+    {
+        "accountAlias": "oCfWFzXqAumYAu",
+        "asset": "SOL",
+        "balance": "0.00000000",
+        "withdrawAvailable": "0.00000000",
+        "updateTime": 0
+    },
+    {
+        "accountAlias": "oCfWFzXqAumYAu",
+        "asset": "BNB",
+        "balance": "0.00011684",
+        "withdrawAvailable": "0.00011684",
+        "updateTime": 1675695655074
+    },
+    {
+        "accountAlias": "oCfWFzXqAumYAu",
+        "asset": "ETH",
+        "balance": "0.00227997",
+        "withdrawAvailable": "0.00227997",
+        "updateTime": 1677435800567
+    },
+    {
+        "accountAlias": "oCfWFzXqAumYAu",
+        "asset": "ADA",
+        "balance": "0.00000000",
+        "withdrawAvailable": "0.00000000",
+        "updateTime": 0
+    },
+    {
+        "accountAlias": "oCfWFzXqAumYAu",
+        "asset": "USDT",
+        "balance": "80.04268013",
+        "withdrawAvailable": "80.04268013",
+        "updateTime": 1677437490449
+    },
+    {
+        "accountAlias": "oCfWFzXqAumYAu",
+        "asset": "XRP",
+        "balance": "0.00000000",
+        "withdrawAvailable": "0.00000000",
+        "updateTime": 0
+    },
+    {
+        "accountAlias": "oCfWFzXqAumYAu",
+        "asset": "USDC",
+        "balance": "0.00000000",
+        "withdrawAvailable": "0.00000000",
+        "updateTime": 0
+    },
+    {
+        "accountAlias": "oCfWFzXqAumYAu",
+        "asset": "BUSD",
+        "balance": "0.00000000",
+        "withdrawAvailable": "0.00000000",
+        "updateTime": 0
+    }
+]
